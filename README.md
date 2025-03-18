@@ -1,0 +1,2 @@
+# kittyconf
+personal kitty configuration
